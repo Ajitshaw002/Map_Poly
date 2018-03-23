@@ -51,7 +51,8 @@ import java.util.Locale;
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback, View.OnClickListener {
 
 	//AJIT SHAW
-//Commit
+//new Commit
+
 
     private GoogleMap mMap;
     private Location location;
